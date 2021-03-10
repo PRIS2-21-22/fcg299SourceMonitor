@@ -1,0 +1,16 @@
+Project Name,Checkpoint Name,Created On,File Name,Lines,Statements,Percent Branch Statements,Method Call Statements,Percent Lines with Comments,Classes and Interfaces,Methods per Class,Average Statements per Method,Line Number of Most Complex Method*,Name of Most Complex Method*,Maximum Complexity*,Line Number of Deepest Block,Maximum Block Depth,Average Block Depth,Average Complexity*,Statements at block level 0,Statements at block level 1,Statements at block level 2,Statements at block level 3,Statements at block level 4,Statements at block level 5,Statements at block level 6,Statements at block level 7,Statements at block level 8,Statements at block level 9
+versionado,Checkpoint 1,10 mar. 2021,Checkpoint 1\Customer.java,74,44,"29,5",14,"6,8",1,"4,00","8,50",23,Customer.statement(),10,39,6,"2,89","3,25",4,6,11,6,6,9,2,0,0,0
+versionado,Checkpoint 1,10 mar. 2021,Checkpoint 1\Movie.java,29,16,"0,0",0,"0,0",1,"4,00","1,25",12,Movie.getTitle(),1,13,2,"1,19","1,00",2,9,5,0,0,0,0,0,0,0
+versionado,Checkpoint 1,10 mar. 2021,Checkpoint 1\Rental.java,20,11,"0,0",0,"0,0",1,"3,00","1,33",8,Rental.getMovie(),1,9,2,"1,18","1,00",2,5,4,0,0,0,0,0,0,0
+versionado,Checkpoint 2,10 mar. 2021,Checkpoint 2\Customer.java,80,48,"27,1",16,"6,3",1,"5,00","7,40",57,Customer.amountOf(),7,63,5,"2,48","2,80",4,7,13,12,10,2,0,0,0,0
+versionado,Checkpoint 2,10 mar. 2021,Checkpoint 2\Movie.java,29,16,"0,0",0,"0,0",1,"4,00","1,25",12,Movie.getTitle(),1,13,2,"1,19","1,00",2,9,5,0,0,0,0,0,0,0
+versionado,Checkpoint 2,10 mar. 2021,Checkpoint 2\Rental.java,20,11,"0,0",0,"0,0",1,"3,00","1,33",8,Rental.getMovie(),1,9,2,"1,18","1,00",2,5,4,0,0,0,0,0,0,0
+versionado,Checkpoint 3,10 mar. 2021,Checkpoint 3\Customer.java,55,30,"6,7",10,"9,1",1,"4,00","4,75",22,Customer.statement(),4,31,3,"1,77","1,75",4,7,11,8,0,0,0,0,0,0
+versionado,Checkpoint 3,10 mar. 2021,Checkpoint 3\Movie.java,29,17,"0,0",0,"0,0",1,"4,00","1,25",12,Movie.getTitle(),1,13,2,"1,18","1,00",2,10,5,0,0,0,0,0,0,0
+versionado,Checkpoint 3,10 mar. 2021,Checkpoint 3\Rental.java,42,30,"36,7",5,"0,0",1,"4,00","5,50",21,Rental.getCharge(),7,25,4,"2,57","2,50",2,6,6,5,11,0,0,0,0,0
+versionado,Checkpoint 4,10 mar. 2021,Checkpoint 4\Customer.java,53,28,"7,1",11,"7,5",1,"4,00","4,25",22,Customer.statement(),4,31,3,"1,68","1,75",4,7,11,6,0,0,0,0,0,0
+versionado,Checkpoint 4,10 mar. 2021,Checkpoint 4\Movie.java,29,17,"0,0",0,"0,0",1,"4,00","1,25",12,Movie.getTitle(),1,13,2,"1,18","1,00",2,10,5,0,0,0,0,0,0,0
+versionado,Checkpoint 4,10 mar. 2021,Checkpoint 4\Rental.java,42,30,"36,7",5,"0,0",1,"4,00","5,50",21,Rental.getCharge(),7,25,4,"2,57","2,50",2,6,6,5,11,0,0,0,0,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Customer.java,48,26,"3,8",9,"4,2",1,"4,00","3,75",22,Customer.statement(),2,31,3,"1,58","1,25",4,7,11,4,0,0,0,0,0,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Movie.java,29,17,"0,0",0,"0,0",1,"4,00","1,25",12,Movie.getTitle(),1,13,2,"1,18","1,00",2,10,5,0,0,0,0,0,0,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Rental.java,50,35,"37,1",8,"0,0",1,"5,00","5,20",21,Rental.getCharge(),7,25,4,"2,46","2,80",2,7,10,5,11,0,0,0,0,0

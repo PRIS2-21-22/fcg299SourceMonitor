@@ -1,0 +1,14 @@
+Project Name,Checkpoint Name,Created On,File Name,Method,Complexity,Statements,Maximum Depth,Calls
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Customer.java,Customer.addRental(),1,1,2,1
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Customer.java,Customer.Customer,1,1,2,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Customer.java,Customer.getName,1,1,2,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Customer.java,Customer.statement(),2,12,3,8
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Movie.java,Movie.getPriceCode(),1,1,2,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Movie.java,Movie.getTitle,1,1,2,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Movie.java,Movie.Movie(),1,2,2,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Movie.java,Movie.setPriceCode(),1,1,2,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Rental.java,Rental.getCharge(),7,18,4,5
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Rental.java,Rental.getDaysRented(),1,1,2,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Rental.java,Rental.getFrequentRenterPoints(),4,4,2,3
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Rental.java,Rental.getMovie(),1,1,2,0
+versionado,Checkpoint 5,10 mar. 2021,Checkpoint 5\Rental.java,Rental.Rental(),1,2,2,0
